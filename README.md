@@ -13,6 +13,7 @@ BMI: Body mass index (weight in kg/(height in m)^2)
 DiabetesPedigreeFunction: Diabetes pedigree function
 Age: Age (years)
 Outcome: Class variable (0 or 1)
+</pre>
 Inspiration:
 some values are not in the range where they are supposed to be, should be treated as missing value.
 What kind of method is better to use to fill this type of missing value? How further clasification will be like?
