@@ -26,9 +26,12 @@ named after PID.
 Predicting the probability to suffer from diabetes for individual females:
 <pre>Generalize linear model contributed to solve this problem. In the glm, the binomial family was chosen,
 since the response variable was only consisted of 1 and 0.
+
 The generated model is:
+<pre>
 REP=-0.8532997 + PRG*0.0211334 + PLASMA*0.0059682 - BP*0.0021338 + THICK*0.0005073 -
 INSULIN*0.0002122 + BODY*0.0129676 + PEDIGREE*0.1361092 + AGE*0.0024004
+</pre>
 Here, doing Cross-Validation checked Generalized Linear Model. The MSE (mean square of error) of this
 model was 3.322.
 What’s more, according to the Table 3, 5 variables (PRG, PLASMA, BP, BODY and PEDIGREE) had an
