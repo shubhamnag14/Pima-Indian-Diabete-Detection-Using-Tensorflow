@@ -33,6 +33,7 @@ INSULIN*0.0002122 + BODY*0.0129676 + PEDIGREE*0.1361092 + AGE*0.0024004.
 
 Here, doing Cross-Validation checked Generalized Linear Model. The MSE (mean square of error) of this
 model was 3.322.
+
 What’s more, according to the Table 3, 5 variables (PRG, PLASMA, BP, BODY and PEDIGREE) had an
 important influence on REP, since their P-Value of coefficient < 0.05.
 Hence, the adjusted model was,
