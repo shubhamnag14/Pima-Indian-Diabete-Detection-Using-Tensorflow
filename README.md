@@ -19,6 +19,9 @@ What kind of method is better to use to fill this type of missing value? How fur
 Is there any sub-groups significantly more likely to have diabetes?
 #feature range plotted below:
 </pre>
-
+Data Selection
+<pre>Randomly picking up 700 total observations from 768 patients was finished in R. The new dataset was
+named after PID.
+</pre>
 ![](image/C:\Users\Shubham\Desktop)
 
