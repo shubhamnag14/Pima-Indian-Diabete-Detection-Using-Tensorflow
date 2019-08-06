@@ -15,10 +15,11 @@ Age: Age (years)
 Outcome: Class variable (0 or 1)
 </pre>
 Inspiration:
-some values are not in the range where they are supposed to be, should be treated as missing value.
+<pre>some values are not in the range where they are supposed to be, should be treated as missing value.
 What kind of method is better to use to fill this type of missing value? How further clasification will be like?
 Is there any sub-groups significantly more likely to have diabetes?
 #feature range plotted below:
+</pre>
 
 ![](image/pima.png)
 
