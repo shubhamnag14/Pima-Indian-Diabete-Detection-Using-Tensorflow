@@ -43,6 +43,7 @@ this model was 2.952.
 The MSE of adjusted model, 2.952, is less than that of whole model, 3.322.
 Finally, the chosen model to predict the probability was:
 REP=-0.853 + PRG*0.0211 + PLASMA*0.00597 - BP*0.00213 + BODY*0.0130 + PEDIGREE*0.136
+
 The value of REP was taken as index to return the probability of suffering from diabetes for individual
 females.
 When the value of REP is close to 1, it means the individual female has higher probability to have diabetes.
