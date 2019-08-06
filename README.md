@@ -36,7 +36,7 @@ model was 3.322.
 
 What’s more, according to the Table 3, 5 variables (PRG, PLASMA, BP, BODY and PEDIGREE) had an
 important influence on REP, since their P-Value of coefficient < 0.05.
-Hence, the adjusted model was,
+Hence, the adjusted model was
 REP=-0.853 + PRG*0.0211 + PLASMA*0.00597 - BP*0.00213 + BODY*0.0130 + PEDIGREE*0.136
 The next, doing Cross-Validation checked Generalized Linear Model. The MSE (mean square of error) of
 this model was 2.952.
