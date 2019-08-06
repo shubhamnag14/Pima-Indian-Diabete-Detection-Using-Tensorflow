@@ -21,5 +21,5 @@ Is there any sub-groups significantly more likely to have diabetes?
 #feature range plotted below:
 </pre>
 
-![](image/pima.png)
+![](image/C:\Users\Shubham\Desktop)
 
