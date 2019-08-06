@@ -6,15 +6,14 @@ Several constraints were placed on the selection of these instances from a large
 
 Pregnancies: Number of times pregnant.
 Glucose: Plasma glucose concentration a 2 hours in an oral glucose tolerance test.
-BloodPressure: Diastolic blood pressure (mm Hg)
+BloodPressure: Diastolic blood pressure (mm Hg).
 SkinThickness: Triceps skin fold thickness (mm)
 Insulin: 2-Hour serum insulin (mu U/ml)
 BMI: Body mass index (weight in kg/(height in m)^2)
 DiabetesPedigreeFunction: Diabetes pedigree function
 Age: Age (years)
 Outcome: Class variable (0 or 1)
-Inspiration:
-
+<h2>Inspiration:
 some values are not in the range where they are supposed to be, should be treated as missing value.
 What kind of method is better to use to fill this type of missing value? How further clasification will be like?
 Is there any sub-groups significantly more likely to have diabetes?
