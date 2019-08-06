@@ -20,4 +20,4 @@ What kind of method is better to use to fill this type of missing value? How fur
 Is there any sub-groups significantly more likely to have diabetes?
 #feature range plotted below:
 
-![](image/C:\Users\Shubham\Desktop)
+![](image/pima.png)
